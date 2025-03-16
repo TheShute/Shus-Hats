@@ -4,9 +4,9 @@ NeoForge Mod currently in development that will just add Cosmetical Armour
 
 
 # Versions 
-NeoForge (1.21.1)
-Forge (soon)
-Fabric (soon)
+- NeoForge (1.21.1)
+- Forge (soon)
+- Fabric (soon)
 
 
 
