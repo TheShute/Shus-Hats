@@ -1,5 +1,6 @@
 # Shu's Hats
 NeoForge Mod currently in development that will just add Cosmetical Armour
+### [Wiki](https://github.com/TheShute/Shus-Hats/wiki/Recipe)
 
 
 
