@@ -13,7 +13,8 @@ NeoForge Mod currently in development that will just add Cosmetical Armour
 # Cobblemon Hats (these images are a work in progress and subject to change/improvement)
 Cubone
 
-![image](https://github.com/user-attachments/assets/96282789-0798-45e6-88e7-60a73b18c6a3)
+![image](https://github.com/user-attachments/assets/12aaea4f-8fab-4a5a-a34e-6c3c15a96740)
+
 
 Shinx Ears
 
