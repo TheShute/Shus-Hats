@@ -11,6 +11,8 @@ NeoForge Mod currently in development that will just add Cosmetical Armour
 - Fabric (soon)
 
 
+# List of amount and Hats/Cosmetical Armour 
+- Cubone -Squirtle
 
 # Cobblemon Hats (these images are a work in progress and subject to change/improvement)
 Cubone
