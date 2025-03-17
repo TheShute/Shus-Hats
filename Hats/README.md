@@ -17,3 +17,14 @@
 ### Bulbasaur
 
 ![Bulbasaur](https://github.com/user-attachments/assets/63cade54-04f8-43db-91cf-e9735b82f176)
+
+
+### Charizard
+
+![CharizardWings](https://github.com/user-attachments/assets/3ad02f7a-5779-4d36-81bf-b8c265b0a213)
+
+
+### Melotta
+
+![Meloetta](https://github.com/user-attachments/assets/d3b51798-2f10-4d44-9b1f-eab430d34a28)
+
