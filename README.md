@@ -12,7 +12,11 @@ NeoForge Mod currently in development that will just add Cosmetical Armour
 
 
 # List of amount and Hats/Cosmetical Armour 
-- Cubone -Squirtle
+- 6 Hats
+
+### Cobblemon Hats
+- Cubone, Squirtle, Shinx's Ears, Bulbasaur, Charizard's Wings, Meloetta's Headpeice
+
 
 # Cobblemon Hats (these images are a work in progress and subject to change/improvement)
 Cubone
