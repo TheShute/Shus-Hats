@@ -28,3 +28,7 @@
 
 ![Meloetta](https://github.com/user-attachments/assets/d3b51798-2f10-4d44-9b1f-eab430d34a28)
 
+
+### Chikorita
+
+![image](https://github.com/user-attachments/assets/b979cd57-4959-4c6b-9578-fd55decda69a)
